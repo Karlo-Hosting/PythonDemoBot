@@ -39,4 +39,4 @@ async def ping(ctx):
 
 
 client.run(TOKEN)
-# This will start the Botd
+# This will start the Botddd
